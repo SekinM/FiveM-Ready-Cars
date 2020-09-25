@@ -4,7 +4,7 @@
 
 # FR
 
-- Voitures déjà prêts pou rFiveM
+- Voitures déjà prêts pour FiveM
 
 - Vous avez juste a les mettre dans resources et ajouter les start dans server.cfg
 
